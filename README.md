@@ -51,6 +51,6 @@ My work involves developing responsive interfaces, integrating frontend and back
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Beatriz Patatas](www.linkedin.com/in/beatriz-patatas-07b76622b)
+- LinkedIn: [Beatriz Patatas](https://www.linkedin.com/in/beatriz-patatas-07b76622b)
 
 Thanks for stopping by!
