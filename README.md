@@ -36,7 +36,6 @@ I'm currently focusing on strengthening my Frontend Engineering skills through:
 
 - React and TypeScript
 - Component-driven UI development
-- State management
 - Accessible and responsive interfaces
 - Frontend testing
 - API integration
