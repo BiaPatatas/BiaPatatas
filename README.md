@@ -1,6 +1,6 @@
 # Hi, I'm Beatriz! 👋
 
-I'm a Frontend Developer and Master's student in Computer Science, specialising in Human-Computer Interaction at the Faculty of Sciences, University of Lisbon.
+I'm a Full-Stack Developer and Master's student in Computer Science, specialising in Human-Computer Interaction at the Faculty of Sciences, University of Lisbon.
 
 I enjoy building user-centred web experiences where **software engineering, interface design, accessibility, and usability** come together.
 
